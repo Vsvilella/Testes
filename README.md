@@ -1,2 +1,2 @@
-# teste-git
- Teste Github e Git
+# teste Git
+ Teste Github e Git. Estou testando repositório local e remoto.
